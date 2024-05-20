@@ -10,7 +10,7 @@ Star ⭐ the repo to support the project.
 
 ## Demo
 
-
+https://github.com/Bassam-Jawish/School-App/assets/103205476/5d8f6f93-0e9d-49a8-b5b8-51a1a8655c72
 
 ## Features
 
