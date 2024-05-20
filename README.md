@@ -115,7 +115,7 @@ There is personal information for each account that can be modified.
 
 - Front-end: Dart - Flutter framework
 - Back-end: Php - Laravel framework
-- State Management: Bloc
+- State Management: Cubit
 - Data Networking: Dio package
 
 ## Questions?🤔
