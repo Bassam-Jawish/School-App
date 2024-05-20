@@ -88,8 +88,8 @@ There is personal information for each account that can be modified.
 
 <p float="left">
   <img src="screenshots/VideoCapture_20230313-004705.jpg" width="220" height = "450"/>
-  <img src="Screenshot_20230929_012344_One UI Home.jpg" width="220" height = "450"/> 
-  <img src="Screenshot_20230929_014010.jpg" width="220" height = "450"/>
+  <img src="screenshots/Screenshot_20230929_012344_One UI Home.jpg" width="220" height = "450"/> 
+  <img src="screenshots/Screenshot_20230929_014010.jpg" width="220" height = "450"/>
 </p>
 
 <p float="left">
