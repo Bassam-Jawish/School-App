@@ -129,6 +129,7 @@ Hit me on
 This project was done By:
 
 [@Bassam-Jawish](https://github.com/Bassam-Jawish)
+[@Sedra Barakt](https://github.com/sedrabarakat)
 [@batoul-khadamaljame](https://github.com/batoul-khadamaljame)
 
 
