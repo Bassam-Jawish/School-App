@@ -20,6 +20,7 @@ The system includes multiple user roles, including:
 3) Librarian
 4) Teachers
 5) Parents and students.
+
 1️⃣ Control Panel (Web)(Dashboard):
 🛑 The owner, admins, and librarian all play a role in the control panel.
 Owner + admins:
